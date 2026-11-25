@@ -26,6 +26,15 @@
   background-color: var(--blanco);
 }
 
+.enviar{
+   display: inline-block;
+  background-color: var(--malva);
+  color: var(--blanco);
+  padding: 0.8rem 1.8rem;
+  border-radius: 30px;
+  font-weight: 500;
+  transition: background-color 0.3s, transform 0.3s;
+}
 .beneficio {
   text-align: center;
   padding: 1rem;
