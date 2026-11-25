@@ -9,12 +9,12 @@ Página web de Cejas y Pestañas
 | unas.html | Daniela |
 | cejas-pestanas.html | Sofia |
 | agendar.html | Sofia|
-| precio.html | Sofia |
+| precios.html | Sofia |
 | js/app.js | Daniela|
 | img |Daniela|
 | css/kit.css| Sofia |
 | css/styles.css| Sofia |
-| README.md | Daniela | 
+| README.md | Daniela y Sofía | 
 
 
 ## Pendientes
